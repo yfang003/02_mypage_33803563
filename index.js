@@ -18,6 +18,8 @@ http.createServer(function(req, res) {
       <p>Hello! My name is Emma. I’m studying Creative Computing at Goldsmiths, University of London.</p>
       <h2>Interests</h2>
       <p>I love creating art and technology projects that explore imagination and absurd realism. I enjoy sleeping, coding and drawing.</p>
+      <h2>Skills</h2>
+      <p>I have learnt HTML, CSS, Javascript, Python and GDscript, and I am studying C++ for game programming.</p>
       <p>I am learning how to make games, and will publish my independent game on ichi!<p>
       <h2>Contact</h2>
       <p>You can reach me at: <a href="yfang003@gold.ac.uk">yfang003@gold.ac.uk</a></p>
